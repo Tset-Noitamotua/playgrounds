@@ -1,5 +1,25 @@
 # My Linux (Debian / Ubuntu) Configuration
 
+- Python 3.6 (incl. PIP)
+- opt. PIP for Python 2.7
+- GIT
+- VirtualenvWrapper
+- RF, RF-DebugLibrary, ...
+- S2L
+- Packer, Vagrant, Docker, VirtualBox
+- ATOM, plugins
+- VSCode, plugis
+
+
+VirtualBox install
+------------------
+```shell
+sudo apt install virtualbox
+sudo apt install virtualbox-ext-pack
+# for Guest OS --> sudo apt install virtualbox-guest-additions-iso
+# CHECK: vboxmanage --version
+```
+
 
 Google Chrome install
 ---------------------
