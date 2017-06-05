@@ -24,8 +24,10 @@ sudo tar -xzf Python-3.6.1.tar.xz
 cd Python-3.6.1
 sudo ./configure
 sudo make altinstall
-# add an alias for pip to your .bashrc
+## add an alias for pip to your .bashrc
 # alias pip='python3.6 -m pip'
+## add pip list format to .bashrc
+# export PIP_FORMAT=columns
 ```
 
 
