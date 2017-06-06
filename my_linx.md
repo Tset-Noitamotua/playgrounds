@@ -28,6 +28,8 @@ sudo make altinstall
 # alias pip='python3.6 -m pip'
 ## add pip list format to .bashrc
 # export PIP_FORMAT=columns
+## How to append a line to .bashrc
+# echo 'export PATH=/usr/local/bin:$PATH' >>~/.bashrc
 ```
 
 
